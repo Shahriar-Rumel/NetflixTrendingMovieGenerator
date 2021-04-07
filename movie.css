@@ -12,6 +12,8 @@ nav{
     top:0;
     width:100%;
     z-index:1;
+    overflow: hidden;
+    
     
 }
 .search{
@@ -56,6 +58,7 @@ nav img{
     transform: translateX(-50%);
     margin-top: 10px;
     margin-bottom: 30px;
+    overflow-x: hidden;
    
 }
 .header {
