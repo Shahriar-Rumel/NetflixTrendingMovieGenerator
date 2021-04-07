@@ -171,6 +171,10 @@ footer{
         width:700px;
        
     }
+    .movie{
+        width:175px;
+       
+    }
 }
 @media(min-width:1000px){
     #main{
